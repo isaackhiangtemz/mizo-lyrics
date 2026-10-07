@@ -1,0 +1,145 @@
+[
+  {
+    "id": "mizo-thar-001",
+    "title": "Kan Hla Thar",
+    "lyricist": "Mizo Lyrics Team",
+    "singer": "Sample Singer",
+    "category": "Worship",
+    "dateAdded": "2026-10-07",
+    "views": 128,
+    "lyrics": [
+      {
+        "type": "verse",
+        "label": "Verse 1",
+        "lines": [
+          "Zan tin ka thinlungin a hria",
+          "Nangmah ka ngaihtuah thin"
+        ]
+      },
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "lines": [
+          "Lawmthu kan hlan che, Lalpa",
+          "I hming chu chawimawi rawh"
+        ]
+      },
+      {
+        "type": "verse",
+        "label": "Verse 2",
+        "lines": [
+          "Khawvel thim pawhin min hruai",
+          "I khawngaih ka ring tlat"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hmangaih-002",
+    "title": "Hmangaihna",
+    "lyricist": "Sample Lyricist",
+    "singer": "Mizo Voices",
+    "category": "Praise",
+    "dateAdded": "2026-10-06",
+    "views": 94,
+    "lyrics": [
+      {
+        "type": "verse",
+        "label": "Verse 1",
+        "lines": [
+          "Hmangaihna chu kan nunah",
+          "Engkim aiin a hlu"
+        ]
+      },
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "lines": [
+          "Kan thinlungah a awm reng",
+          "Lawmthu kan hlan ang"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tlawmngaihna-003",
+    "title": "Tlawmngaihna",
+    "lyricist": "Sample Lyricist",
+    "singer": "Mizo Voices",
+    "category": "Folk",
+    "dateAdded": "2026-10-05",
+    "views": 76,
+    "lyrics": [
+      {
+        "type": "verse",
+        "label": "Verse 1",
+        "lines": [
+          "Kan ram kan hmangaih ang",
+          "Kan nunin a lantir ang"
+        ]
+      },
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "lines": [
+          "Tlawmngaihna chu nunphung",
+          "Kan zirtir zel ang"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "thlamuanna-004",
+    "title": "Thlamuanna",
+    "lyricist": "Mizo Lyrics Team",
+    "singer": "Sample Singer",
+    "category": "Gospel",
+    "dateAdded": "2026-10-04",
+    "views": 61,
+    "lyrics": [
+      {
+        "type": "verse",
+        "label": "Verse 1",
+        "lines": [
+          "Thlamuanna ka zawng thin",
+          "I hnenah ka hmuh"
+        ]
+      },
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "lines": [
+          "Nang chu ka beiseina",
+          "Ka thinlungin a ring"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lawmawm-005",
+    "title": "Lawmawm",
+    "lyricist": "Sample Lyricist",
+    "singer": "Mizo Voices",
+    "category": "Praise",
+    "dateAdded": "2026-10-03",
+    "views": 48,
+    "lyrics": [
+      {
+        "type": "verse",
+        "label": "Verse 1",
+        "lines": [
+          "Ni thar kan hmuh apiang",
+          "Lawmthu kan sawi ang"
+        ]
+      },
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "lines": [
+          "Lawmawm, lawmawm",
+          "Kan thinlung a lawm e"
+        ]
+      }
+    ]
+  }
+]
